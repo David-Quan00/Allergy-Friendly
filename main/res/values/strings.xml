@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Allergy Checker</string>
+
+    <string-array name="allergies">
+        <item>Eggs</item>
+        <item>Fish</item>
+        <item>Milk</item>
+        <item>Peanuts</item>
+        <item>Tree Nuts</item>
+        <item>Sesame</item>
+        <item>Soy</item>
+        <item>Wheat</item>
+        <item>Other</item>
+    </string-array>
+
+    <string name="title_activity_credits">Credits</string>
+
+</resources>
